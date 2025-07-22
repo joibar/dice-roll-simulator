@@ -31,7 +31,7 @@
 ├── index.html       # Main HTML file
 ├── style.css        # Styling for the game
 ├── script.js        # Game logic and interactivity
-└── images           # Dice images
+└── images           # Dice images folder
   </pre>
 
   <hr>
