@@ -1,12 +1,5 @@
 # Dice-roll-simulator
 <p>Interactive two-player Dice Duel game built with HTML, CSS, and JavaScript. Each player rolls a die, and the one with the higher number wins, unless it's a draw! Great for learning DOM manipulation, event handling, and basic game logic.</p>
----
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-</head>
-<body>
 
   <h1>🎲 Dice Duel</h1>
 
@@ -69,6 +62,3 @@
     <li>Track score over multiple rounds</li>
     <li>Add animations for dice rolls</li>
   </ul>
-
-</body>
-</html>
